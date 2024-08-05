@@ -8,7 +8,6 @@ This project is a simple password generator built using React.js. It allows user
 - [Usage](#usage)
 - [Components](#components)
 - [Customization](#customization)
-- [Contributing](#contributing)
 - [More Projects](#More-Projects)
 
 ## Installation
@@ -58,7 +57,7 @@ Copy the generated password by clicking the "Copy" button.
 
 3. passChar.jsx: Contains character sets for uppercase, lowercase, numbers, and symbols.
 
-4. App.css : Contains the styles
+4. App.css : The stylesheet for styling the application, including layout, colors, and typography.
 
 ## Customization
 
@@ -66,7 +65,7 @@ To customize the character sets or other logic, you can modify the passChar.jsx 
 
 ## More - Projects
 
-
-
+```sh
+https://github.com/supekar-aniket
 
 
