@@ -2,6 +2,7 @@
 
 This project is a simple password generator built using React.js. It allows users to create secure passwords by selecting various options such as including uppercase letters, lowercase letters, numbers, and symbols.
 
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -9,6 +10,7 @@ This project is a simple password generator built using React.js. It allows user
 - [Components](#components)
 - [Customization](#customization)
 - [More Projects](#More-Projects)
+  
 
 ## Installation
 
@@ -33,6 +35,7 @@ To run this project locally, follow these steps:
 
    ```sh
    npm start
+   
 
 ## Usage
 
@@ -49,6 +52,7 @@ Click the "Generate Password" button to create a password with the selected opti
 
 Copy the generated password by clicking the "Copy" button.
 
+
 ## Components
 
 1. App.js: The main component that renders the PasswordGenerator component.
@@ -58,10 +62,12 @@ Copy the generated password by clicking the "Copy" button.
 3. passChar.jsx: Contains character sets for uppercase, lowercase, numbers, and symbols.
 
 4. App.css : The stylesheet for styling the application, including layout, colors, and typography.
+   
 
 ## Customization
 
 To customize the character sets or other logic, you can modify the passChar.jsx file or the PasswordGenerator component. For example, you can add more symbols or adjust the password length limits.
+
 
 ## More - Projects
 
